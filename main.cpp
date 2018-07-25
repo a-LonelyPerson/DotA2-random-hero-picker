@@ -10,7 +10,7 @@ int main()
 		"Earth Shaker",
 		"Sven",
 		"Tiny",
-        "Kunkka",
+        	"Kunkka",
 		"Beast Master",
 		"Dragon Knight",
 		"Clockwerk",

@@ -1,2 +1,3 @@
 # DotA2-random-hero-picker
-A simple app to choose a random hero without risking to get Treant protector or IO :|
+A pretty simple and short file to get a random hero without risking to get Treant protector or techies...
+Please make me know if there is issues or any typo or better way of writing this code <3
